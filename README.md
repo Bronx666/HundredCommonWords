@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-##General Info
+## General Info
 This is a simple training project whose goal was to learn how to create bots. This bot allows you to find the most used words from the book in PDF
 
 ## Technologies
