@@ -17,8 +17,10 @@ Project is created with:
 * PostgreSQL
 * Deepl API
 
-##Setup
+## Setup
+Clone a repository
 Create a PostgreSQL database image in the docker
 ```
 $docker run --name postgres -p 5432:5432 -e POSTGRES_PASSWORD=pass -d postgres
 ```
+Run
